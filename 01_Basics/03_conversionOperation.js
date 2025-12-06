@@ -17,33 +17,47 @@ let count = 35
 // console.log(numberCount2) // NaN not a number
 
 // null
-count = null
-console.log(count)
-console.log(typeof count);
-console.log(Number(count))
+// count = null
+// console.log(count)
+// console.log(typeof count);
+// console.log(Number(count))
 
-// undifined
-count = undefined
-console.log(count)
-console.log(typeof count);
-console.log(Number(count))
+// // undifined
+// count = undefined
+// console.log(count)
+// console.log(typeof count);
+// console.log(Number(count))
 
-// boolean
-count = true
-console.log(count)
-console.log(typeof count);
-console.log(Number(count))
+// // boolean
+// count = true
+// console.log(count)
+// console.log(typeof count);
+// console.log(Number(count))
 
-console.log("-------------------------------- Boolean ---------------------------------------------")
+// console.log("-------------------------------- Boolean ---------------------------------------------")
 
-let number = 10;
-console.log(Boolean(number))
+// let number = 10;
+// console.log(Boolean(number))
 
-number = 0
-console.log(Boolean(number))
+// number = 0
+// console.log(Boolean(number))
 
-number = 0.1
-console.log(Boolean(number))
+// number = 0.1
+// console.log(Boolean(number))
 
 
+/************************ Operations ***************************/
+
+// console.log(1 + 1)
+// console.log ("1" + 2)
+// console.log (1 + "2")
+// console.log ("1" + 2 + 3)
+// console.log(1 + "2" + 3)
+// console.log(1 + 2 + "3")
+
+console.log(true)
+console.log(+true)
+// console.log(true+)
+console.log(+"")
+console.log(+"gak")
 
